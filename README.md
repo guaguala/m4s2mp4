@@ -10,3 +10,5 @@
 5. 路径含有中文可能会带来问题
 7. 建议创建一个单独的空文件夹作为存放视频的路径
 8. 按住ctrl+c终止程序运行
+
+<img src="https://raw.githubusercontent.com/guaguala/m4s2mp4/main/menu.png">
