@@ -1,7 +1,7 @@
 # m4s2mp4
 用于将bilibili的缓存文件提取为mp4格式视频，可以批量提取和单个视频提取
 
-包含一个pyinstaller打包的exe文件和源代码文件，需自行下载ffmpeg，地址为 http://ffmpeg.org/
+包含一个pyinstaller打包的exe文件和py源文件，需自行下载ffmpeg，地址为 http://ffmpeg.org/
 
 1. 确保已下载ffmpeg
 2. 将ffmpeg配置环境变量或将本程序放在ffmpeg的bin目录下
