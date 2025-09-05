@@ -5,6 +5,8 @@
 
 ffmpeg、python3
 
+支持Windows客户端的、Android手机客户端缓存视频的提取
+
 你可能需要下载ffmpeg，地址为 http://ffmpeg.org/
 
 打包好的exe为自带ffmpeg的单文件
