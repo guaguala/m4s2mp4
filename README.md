@@ -4,6 +4,7 @@
 环境需求：
 ffmpeg
 python3
+
 你可能需要下载ffmpeg，地址为 http://ffmpeg.org/
 打包好的exe为自带ffmpeg的单文件
 
